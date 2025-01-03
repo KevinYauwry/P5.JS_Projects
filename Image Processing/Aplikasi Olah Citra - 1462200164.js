@@ -1,7 +1,4 @@
-/*
-  Pemrograman #7 - Grafkom
-  1462200164 - Kevin Yauwry
-*/
+// 1462200164 - Kevin Yauwry
 
 let input, img, capture;
 let fotoSepia, fotoGray, fotoPixel;
