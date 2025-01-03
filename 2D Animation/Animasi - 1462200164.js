@@ -1,7 +1,4 @@
-/*
-  Evaluasi Pemrograman #8 - Grafkom
-  1462200164 - Kevin Yauwry
-*/
+// 1462200164 - Kevin Yauwry
 
 let array;
 let total, ukuran;
