@@ -1,7 +1,4 @@
-/*
-    Evaluasi Pemrograman #9 - Grafkom
-    1462200164 - Kevin Yauwry
-*/
+// 1462200164 - Kevin Yauwry
 
 function setup() {
   createCanvas(600, 500);
